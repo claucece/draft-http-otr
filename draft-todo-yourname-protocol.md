@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "HTTP OTR"
+abbrev: "HTTP-OTR"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-http-otr-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
